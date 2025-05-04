@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [Team](overview/quickstart.md)
-* [Roadmap](overview/publish-your-docs.md)
+* [Team](overview/team.md)
+* [Roadmap](overview/roadmap.md)
 * [Useful links](overview/useful-links.md)
 
 ## Basics
@@ -17,8 +17,5 @@
 * [Tipping](basics/tipping.md)
 * [User Profiles](basics/user-profiles.md)
 * [Leaderboards](basics/leaderboards.md)
+* [Wallet verification](basics/wallet-verification.md)
 * [Referral](basics/referral.md)
-
-***
-
-* [Wallet verification](wallet-verification.md)

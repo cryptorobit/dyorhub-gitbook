@@ -18,19 +18,19 @@ Connecting your wallet to DYORHub unlocks key features that enhance trust, inter
 **Connect**\
 Head to [**Account > Wallet Connection**](https://dyorhub.xyz/account/wallet) and click **Connect Wallet**. Phantom (or another Solana-compatible wallet) will be detected automatically.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-05-04 at 22.36.59.png" alt=""><figcaption><p>Wallet connection in Account profile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-04 at 22.36.59.png" alt=""><figcaption><p>Wallet connection in Account profile</p></figcaption></figure>
 
 **Verify Ownership**
 
-<figure><img src=".gitbook/assets/Screenshot 2025-05-04 at 22.37.12.png" alt=""><figcaption><p>Wallet pending verification</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-04 at 22.37.12.png" alt=""><figcaption><p>Wallet pending verification</p></figcaption></figure>
 
 After connecting, click **Verify Now** to confirm ownership. **You’ll sign a message—no transaction or gas fees involved.**
 
-<figure><img src=".gitbook/assets/Screenshot 2025-05-04 at 22.48.14.png" alt="" width="347"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-04 at 22.48.14.png" alt="" width="347"><figcaption></figcaption></figure>
 
 After the confirmation your wallet is now **fully verified**
 
-<figure><img src=".gitbook/assets/Screenshot 2025-05-04 at 22.37.31.png" alt=""><figcaption><p>Wallet is now fully verified</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-04 at 22.37.31.png" alt=""><figcaption><p>Wallet is now fully verified</p></figcaption></figure>
 
 ### 🔒 Privacy Controls
 
