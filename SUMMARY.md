@@ -7,6 +7,7 @@
 * [Team](overview/team.md)
 * [Roadmap](overview/roadmap.md)
 * [Useful links](overview/useful-links.md)
+* [$DYORHUB Tokenomics](overview/usddyorhub-tokenomics.md)
 
 ## Basics
 
