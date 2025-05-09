@@ -10,7 +10,7 @@ Importantly, **$DYORHUB was launched using Pump.fun**, following a fully decentr
 
 ### Relevant Addresses
 
-<table><thead><tr><th width="143.61328125">Type</th><th width="460.87109375">Address</th></tr></thead><tbody><tr><td>Marketing</td><td>B5BwurzzkE1c6S4mrbcuenBTA3F7WwCWQP59dtScbsgx</td></tr><tr><td>Meteora LP</td><td><a href="https://app.meteora.ag/dlmm/BHTJoj5aNjWPzVViGbe2sSuGU7huGGCLBWJEqXPzseD6">https://app.meteora.ag/dlmm/BHTJoj5aNjWPzVViGbe2sSuGU7huGGCLBWJEqXPzseD6</a></td></tr></tbody></table>
+<table><thead><tr><th width="158.734375">Type</th><th width="588.1875">Address</th></tr></thead><tbody><tr><td>Marketing Wallet</td><td>B5BwurzzkE1c6S4mrbcuenBTA3F7WwCWQP59dtScbsgx</td></tr><tr><td>Meteora LP</td><td><a href="https://app.meteora.ag/dlmm/BHTJoj5aNjWPzVViGbe2sSuGU7huGGCLBWJEqXPzseD6">https://app.meteora.ag/dlmm/BHTJoj5aNjWPzVViGbe2sSuGU7huGGCLBWJEqXPzseD6</a></td></tr></tbody></table>
 
 ### ⚙️ Fair Launch via Pump.fun
 
