@@ -4,6 +4,8 @@ The $DYORHUB token is the core utility token of the DYORHub platform — powerin
 
 Importantly, **$DYORHUB was launched using Pump.fun**, following a fully decentralized, transparent, and community-first tokenomics model.
 
+### 💎 Specs&#x20;
+
 <table><thead><tr><th width="144.41796875">Type</th><th width="179.24609375">Number of token</th><th>Percentage</th><th></th></tr></thead><tbody><tr><td>Total supply</td><td>1 Billion</td><td>100%</td><td></td></tr><tr><td>Team</td><td>47 Million</td><td>4.7%</td><td><a href="https://app.streamflow.finance/contract/solana/mainnet/ppDvq9ponzpRoWuJD2v4oCzeWdZziWeaH4xJVvGAKtB">Locked on Streamflow </a></td></tr><tr><td>Circulating</td><td>950 Million</td><td>96.3%</td><td></td></tr></tbody></table>
 
 ### ⚙️ Fair Launch via Pump.fun
